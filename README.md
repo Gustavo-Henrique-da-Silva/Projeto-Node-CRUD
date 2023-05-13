@@ -1,0 +1,3 @@
+## Projeto feito em uma oficina do curso de DS 
+# Utiliza handlebars, node, sequelize, express e entre outros... 
+# Projeto CRUD em Node.js
